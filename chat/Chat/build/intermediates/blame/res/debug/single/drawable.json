@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_host.xml",
+        "source": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\src\\main\\res\\drawable\\ic_tab_host.xml"
+    },
+    {
+        "merged": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_use_disabled.png",
+        "source": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\src\\main\\res\\drawable\\ic_tab_use_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_host_enabled.png",
+        "source": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\src\\main\\res\\drawable\\ic_tab_host_enabled.png"
+    },
+    {
+        "merged": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_use.xml",
+        "source": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\src\\main\\res\\drawable\\ic_tab_use.xml"
+    },
+    {
+        "merged": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_use_enabled.png",
+        "source": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\src\\main\\res\\drawable\\ic_tab_use_enabled.png"
+    },
+    {
+        "merged": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_host_disabled.png",
+        "source": "C:\\Users\\SDG\\StudioProjects\\chat1\\Chat\\src\\main\\res\\drawable\\ic_tab_host_disabled.png"
+    }
+]
